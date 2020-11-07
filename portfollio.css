@@ -1,0 +1,148 @@
+.A{
+text-align:center;
+height:50px;
+padding:5px;
+}
+.B{
+	width:700px;
+	margin:auto;
+	height:50px;
+	
+}
+.P{
+	text-align:left;
+	height:50px;
+    width:150px;
+	float:left;
+	font-family:arial black;
+	font-size:12px;
+	color:gray;
+}
+.E{
+	text-align:left;
+	float:left;
+	height:50px;
+    width:394px;
+	color:violet;
+	font-family:arial black;
+		font-size:12px;
+}
+.S{ 
+text-align:left;
+    float:left;
+    height:50px;
+    width:150px;
+	font-family:arial black;
+    font-size:12px;
+	color:blue;
+}	
+.S:hover{
+	color:red;
+	cursor:pointer;
+}
+.w{
+	margin:auto;
+	border:2px solid black;
+	height:200px;
+	background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Napoli_2.jpg/1000px-Napoli_2.jpg);
+	background-repeat:no-repeat;
+	Background-size:cover;
+	padding:5px;
+}
+.X{
+	width:70%;
+	height:200px;
+	border:1px solid red;
+	border:1px solid red;
+	margin:auto;
+}
+.Y{
+	border:1px solid gray;
+	height:200px;
+	width:50%;
+	float:left;
+	background:linear-gradient(#ff000054,#808080a1),url(https://scontent.fdac48-1.fna.fbcdn.net/v/t1.0-0/s526x395/121267736_677046789858034_7913530566267292831_o.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=FAflckWTYg8AX_-REPu&_nc_ht=scontent.fdac48-1.fna&tp=7&oh=6c1ef31501033716a32de91b632eada6&oe=5FBADE59);
+}
+.Z{
+	border:1px solid black;
+	height:200px;
+	width:49.4%;
+	float:left;
+	text-align:justify;
+	font-family: "Poppins",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight:400;
+	color:gray;
+	background:linear-gradient(#ff000082,#808080a1),url(https://scontent.fdac48-1.fna.fbcdn.net/v/t1.0-0/p180x540/120883270_676983366531043_8266326628639035472_o.jpg?_nc_cat=111&ccb=2&_nc_sid=e3f864&_nc_ohc=F48zQRYQcd4AX8DgQwz&_nc_ht=scontent.fdac48-1.fna&tp=6&oh=1b380bfc14d3bd9297cd0af0efa4e742&oe=5FB97407);
+    background-repeat:no-repeat;
+	background-size:cover;
+}
+.Z:hover{
+	cursor:pointer;
+	color:orange;
+	 font-family: verdana;
+	overflow:hidden;
+	text-decoration:justify;
+}
+.L{
+	text-align:justify;
+	font-family:cursive;
+	font-size:13px;
+}
+.A1{
+	border:5px solid black;
+	margin:auto;
+	height:380px;
+}
+.B1{
+	float:left;
+	width:50%;
+	border:3px solid gray;
+	height:380px;
+    background:linear-gradient(#ff000082,#808080a1),url(https://scontent.fdac48-1.fna.fbcdn.net/v/t1.0-9/84491012_500600637502651_7567810767295086592_o.jpg?_nc_cat=110&ccb=2&_nc_sid=8bfeb9&_nc_ohc=afsOOe9aOWgAX_9zykQ&_nc_ht=scontent.fdac48-1.fna&oh=6fd8a9ca6d40526a5a3b181779117fcd&oe=5FBC7B4C);
+    background-repeat:no-repeat;
+	background-size:cover;
+}
+.C1{
+	float:right;
+	width:40%;
+	border:5px black;
+	height;248px;
+}
+.SF{
+	font-family:arial black;
+	text-decoration:none;
+	color:orange;
+	
+}
+.SS{
+	font-family:arial black;
+	background:gray;
+	padding:15px;
+}
+.facebook{
+	size:30px;
+	text-decoration:none;
+	color:#c82eef;
+	size:20px;
+}
+.instagram{
+	color:red;
+}
+.sociallinkslarge{
+	height:170px;
+	width:50px;
+	position:fixed;
+	background:white;
+	text-align:center;
+	border-radius:10px;
+}
+.FB{
+	margin-bottom:2px;
+	margin-top:5px;
+}
+.Ins{
+	margin-bottom:2px;
+}
+.FB:hover{
+	cursor:pointer;
+}
